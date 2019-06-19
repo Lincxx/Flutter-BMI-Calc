@@ -1,6 +1,8 @@
 # bmi_calculator
 
-A new Flutter project.
+A BMI Calculator
+
+![alt text](https://github.com/Lincxx/Flutter-BMI-Calc/blob/master/images/bmi.png)
 
 ## Getting Started
 
